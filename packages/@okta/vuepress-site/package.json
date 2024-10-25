@@ -34,7 +34,7 @@
     "sass": "^1.57.1",
     "sass-loader": "^7.1.0",
     "string-replace-loader": "^2.3.0",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vue-select": "^3.20.2",
     "vuepress-plugin-code-copy": "^1.0.6",
     "vuepress-plugin-robots": "^1.0.1",
